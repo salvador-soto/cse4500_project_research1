@@ -1,3 +1,5 @@
 ## Check in 3
 For this check in I decided to experiment a little, I wanted to practice and try to make a website that I can change the colors of the background by either clicking a button or based on mouse position.I decided to try and do this because for one of the ideas for the term project I thought it would be cool if I could have several colors inside of each other in a way that they looked stacked, so it would emulate depth, and having a character traversing through this "color tunnel" of sorts. So I needed to figure out a way to change colors in the background first and this is what I managed to do.
 
+What I have done so far is a rectangle that changes colors based on a random int that corresponds to a color in the array 'colors', and is changed by clicking a button. What I hope to achieve is to no longer need an array of colors and possibly source the colors a different way as well as having a save function so that the last color accessed is saved for when you come back to the website.
+
